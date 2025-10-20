@@ -53,7 +53,15 @@ O layout principal (`activity_main.xml`) contém:
 - 5 Plain Text
 - 2 `TextView` (resultado para combustível necessário e custo de viagem)
 
+---
 
+## 📸 Demonstração
+
+### Tela de cálculo
+
+![Figura 1:](/img/img.png)
+
+---
 
 ## 👩‍💻 Autor / Equipe
 
@@ -62,7 +70,7 @@ O layout principal (`activity_main.xml`) contém:
 **Disciplina:** *Desenvolvimento Mobile Android*  
 **Professor:** *Jeferson Leon*  
 
-
+---
 
 ## 📚 Licença
 
