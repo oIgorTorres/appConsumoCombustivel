@@ -59,7 +59,7 @@ O layout principal (`activity_main.xml`) contém:
 
 ### Tela de cálculo
 
-![Figura 1:](/img/img.png)
+![Figura 1:](/imagens/img.png)
 
 ---
 
